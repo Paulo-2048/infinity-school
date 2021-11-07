@@ -1,0 +1,10 @@
+main {
+    margin: 2em;
+}
+
+.center-css {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 0!important
+}
